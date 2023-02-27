@@ -9,7 +9,7 @@ namespace practica01.Models
         public string nombre { get; set; }
         public string descripcion { get; set; }
         public int? tipo_equipos_id { get; set; }
-        public int marca_id { get; set; }
+        public int? marca_id { get; set; }
         public string modelo { get; set; }
         public int? anio_compra { get; set; }
         public decimal costo { get; set; }
