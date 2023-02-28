@@ -94,7 +94,7 @@ namespace practica01.Controllers
             equipoActual.nombre = equipoModificar.nombre;
             equipoActual.descripcion = equipoModificar.descripcion;
             equipoActual.marca_id = equipoModificar.marca_id;
-            equipoActual.tipo_equipos_id = equipoModificar.tipo_equipos_id;
+            equipoActual.tipo_equipo_id = equipoModificar.tipo_equipo_id;
             equipoActual.anio_compra = equipoModificar.anio_compra;
             equipoActual.costo = equipoModificar.costo;
 
